@@ -1,0 +1,55 @@
+2020-04-24 17:48:20 - PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'localhost' (10061) in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 7
+2020-04-24 17:48:20 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 17:48:20 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 17:48:20 - PHP Notice:  Undefined variable: mysql in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 17:48:20 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 17:48:51 - PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'localhost' (10061) in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 7
+2020-04-24 17:48:51 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 17:48:51 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 17:48:51 - PHP Notice:  Undefined variable: mysql in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 17:48:51 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 17:49:31 - PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'localhost' (10061) in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 7
+2020-04-24 17:49:31 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 17:49:31 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 17:49:31 - PHP Notice:  Undefined variable: mysql in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 17:49:31 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 17:55:31 - PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'localhost' (10061) in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 7
+2020-04-24 17:55:31 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 17:55:31 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 17:55:31 - PHP Notice:  Undefined variable: mysql in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 17:55:31 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 17:57:02 - PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'localhost' (10061) in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 7
+2020-04-24 17:57:02 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 17:57:02 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 17:57:02 - PHP Notice:  Undefined variable: mysql in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 17:57:02 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 17:57:16 - PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'localhost' (10061) in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 7
+2020-04-24 17:57:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 17:57:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 17:57:16 - PHP Notice:  Undefined variable: mysql in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 17:57:16 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 17:57:34 - PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'localhost' (10061) in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 7
+2020-04-24 17:57:34 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 17:57:34 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 17:57:34 - PHP Notice:  Undefined variable: mysql in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 17:57:34 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 18:05:20 - PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'localhost' (10061) in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 7
+2020-04-24 18:05:20 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 18:05:20 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 18:05:20 - PHP Notice:  Undefined variable: mysql in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 18:05:20 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 18:05:31 - PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'localhost' (10061) in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 7
+2020-04-24 18:05:31 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 18:05:31 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 18:05:31 - PHP Notice:  Undefined variable: mysql in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 18:05:31 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 18:08:27 - PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on 'localhost' (10061) in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 7
+2020-04-24 18:08:27 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 18:08:27 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 18:08:27 - PHP Notice:  Undefined variable: mysql in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 18:08:27 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 18:08:53 - PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 7
+2020-04-24 18:08:53 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 18:08:53 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\MAMP\htdocs\e_commerce\system\library\db\mysqli.php on line 10
+2020-04-24 18:08:53 - PHP Notice:  Undefined variable: mysql in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
+2020-04-24 18:08:53 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\MAMP\htdocs\e_commerce\install\controller\install\step_3.php on line 280
