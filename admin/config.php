@@ -11,7 +11,7 @@ define('HTTPS_CATALOG', 'http://localhost:8888/e_commerce/');
 define('DIR_APPLICATION', 'C:/MAMP/htdocs/e_commerce/admin/');
 define('DIR_SYSTEM', 'C:/MAMP/htdocs/e_commerce/system/');
 define('DIR_IMAGE', 'C:/MAMP/htdocs/e_commerce/image/');
-define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
+define('DIR_STORAGE', 'C:/MAMP/storage/');
 define('DIR_CATALOG', 'C:/MAMP/htdocs/e_commerce/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
